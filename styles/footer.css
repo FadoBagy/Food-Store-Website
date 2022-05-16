@@ -1,0 +1,35 @@
+.footerNav {
+    width: 400px;
+}
+
+.footerNav ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-gap: 10px;
+}
+
+.footerNav a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+
+.socialsLinks {
+    width: 150px;
+    height: 35px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.4rem;
+}
+
+.socialsLinks i {
+    cursor: pointer;
+}
+
+.rights {
+    display: flex;
+    padding: 10px;
+    font-size: 0.8rem;
+    opacity: 78%;
+}
