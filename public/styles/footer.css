@@ -23,8 +23,8 @@
     font-size: 1.4rem;
 }
 
-.socialsLinks i {
-    cursor: pointer;
+.socialsLinks a {
+    background-color: aqua;
 }
 
 .rights {
