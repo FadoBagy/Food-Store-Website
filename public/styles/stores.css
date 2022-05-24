@@ -30,7 +30,9 @@
     height: 250px;
 }
 
-.city {}
+.city {
+    font-size: 1.1rem;
+}
 
 .information {
     font-size: 1rem;
