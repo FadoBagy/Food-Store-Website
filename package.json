@@ -1,0 +1,20 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "The project name is Food-Store-Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FadoBagy/Demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FadoBagy/Demos/issues"
+  },
+  "homepage": "https://github.com/FadoBagy/Demos#readme"
+}
