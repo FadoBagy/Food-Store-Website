@@ -1,4 +1,38 @@
-#main-stores {
+#main-section {}
+
+#main-section h2 {
+    padding: 20px;
+}
+
+#stores {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 8px;
+    row-gap: 3em;
+    padding: 15px;
+}
+
+.store {
+    width: 400px;
+    padding: 5px;
+
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 150ms;
+}
+
+.store:hover {
+    opacity: 87%
+}
+
+.store img {
     width: 100%;
-    background-color: antiquewhite;
+    height: 250px;
+}
+
+.city {}
+
+.information {
+    font-size: 1rem;
+    opacity: 80%;
 }
