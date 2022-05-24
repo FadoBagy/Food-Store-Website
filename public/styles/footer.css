@@ -24,7 +24,8 @@
 }
 
 .socialsLinks a {
-    background-color: aqua;
+    cursor: pointer;
+    color: black;
 }
 
 .rights {
